@@ -1,13 +1,15 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 
-namespace HelloWorld
+namespace GettingInput
 {
-    class Program
-    {
+  class Program
+  {
     static void Main()
     {
-        Console.WriteLine("hello guys");    
+      Console.WriteLine("How old are you?");
+      string input = Console.ReadLine();
+      Console.WriteLine($"You are {input} years old!");
     }
-    }
+  }
 }
