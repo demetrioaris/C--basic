@@ -1,0 +1,15 @@
+C:\Users\demet\OneDrive - BYU-Idaho\Curso online\C# basic\bin\Debug\net7.0\C# basic.exe
+C:\Users\demet\OneDrive - BYU-Idaho\Curso online\C# basic\bin\Debug\net7.0\C# basic.deps.json
+C:\Users\demet\OneDrive - BYU-Idaho\Curso online\C# basic\bin\Debug\net7.0\C# basic.runtimeconfig.json
+C:\Users\demet\OneDrive - BYU-Idaho\Curso online\C# basic\bin\Debug\net7.0\C# basic.dll
+C:\Users\demet\OneDrive - BYU-Idaho\Curso online\C# basic\bin\Debug\net7.0\C# basic.pdb
+C:\Users\demet\OneDrive - BYU-Idaho\Curso online\C# basic\obj\Debug\net7.0\C# basic.csproj.AssemblyReference.cache
+C:\Users\demet\OneDrive - BYU-Idaho\Curso online\C# basic\obj\Debug\net7.0\C# basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demet\OneDrive - BYU-Idaho\Curso online\C# basic\obj\Debug\net7.0\C# basic.AssemblyInfoInputs.cache
+C:\Users\demet\OneDrive - BYU-Idaho\Curso online\C# basic\obj\Debug\net7.0\C# basic.AssemblyInfo.cs
+C:\Users\demet\OneDrive - BYU-Idaho\Curso online\C# basic\obj\Debug\net7.0\C# basic.csproj.CoreCompileInputs.cache
+C:\Users\demet\OneDrive - BYU-Idaho\Curso online\C# basic\obj\Debug\net7.0\C# basic.dll
+C:\Users\demet\OneDrive - BYU-Idaho\Curso online\C# basic\obj\Debug\net7.0\refint\C# basic.dll
+C:\Users\demet\OneDrive - BYU-Idaho\Curso online\C# basic\obj\Debug\net7.0\C# basic.pdb
+C:\Users\demet\OneDrive - BYU-Idaho\Curso online\C# basic\obj\Debug\net7.0\C# basic.genruntimeconfig.cache
+C:\Users\demet\OneDrive - BYU-Idaho\Curso online\C# basic\obj\Debug\net7.0\ref\C# basic.dll
